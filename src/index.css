@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div#root {
+  max-width: unset;
+  margin: unset;
+  padding: unset;
+  text-align: unset;
+}
